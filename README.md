@@ -1,6 +1,6 @@
 # ZEA_JavaFX_LAB6
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot0.png)
 
 ![Screenshot](screenshot1.png)
 
